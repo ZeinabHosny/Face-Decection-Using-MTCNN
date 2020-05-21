@@ -1,0 +1,88 @@
+Faces of image Before/before1.jpg
+
+{'box': [209, 44, 94, 111], 'confidence': 0.9999985694885254, 'keypoints': {'left_eye': (239, 84), 'right_eye': (280, 87), 'nose': (259, 107), 'mouth_left': (239, 125), 'mouth_right': (276, 128)}}
+
+
+
+Faces of image Before/before2.jpg
+
+{'box': [125, 27, 104, 143], 'confidence': 0.9999682903289795, 'keypoints': {'left_eye': (149, 88), 'right_eye': (197, 81), 'nose': (174, 108), 'mouth_left': (161, 140), 'mouth_right': (196, 135)}}
+{'box': [332, 93, 52, 61], 'confidence': 0.9974871873855591, 'keypoints': {'left_eye': (348, 116), 'right_eye': (369, 114), 'nose': (356, 126), 'mouth_left': (351, 143), 'mouth_right': (367, 141)}}
+{'box': [31, 65, 46, 66], 'confidence': 0.9880262613296509, 'keypoints': {'left_eye': (46, 90), 'right_eye': (72, 93), 'nose': (58, 107), 'mouth_left': (45, 118), 'mouth_right': (66, 121)}}
+{'box': [281, 79, 40, 52], 'confidence': 0.95609050989151, 'keypoints': {'left_eye': (287, 101), 'right_eye': (304, 97), 'nose': (293, 112), 'mouth_left': (294, 123), 'mouth_right': (307, 119)}}
+
+
+
+Faces of image Before/before3.jpg
+
+{'box': [179, 40, 88, 125], 'confidence': 1.0, 'keypoints': {'left_eye': (215, 84), 'right_eye': (252, 85), 'nose': (242, 102), 'mouth_left': (218, 128), 'mouth_right': (252, 128)}}
+
+
+
+Faces of image Before/before4.jpg
+
+{'box': [80, 127, 70, 93], 'confidence': 0.9999406337738037, 'keypoints': {'left_eye': (109, 165), 'right_eye': (140, 164), 'nose': (129, 187), 'mouth_left': (103, 193), 'mouth_right': (136, 192)}}
+{'box': [227, 54, 69, 90], 'confidence': 0.9999017715454102, 'keypoints': {'left_eye': (245, 91), 'right_eye': (276, 90), 'nose': (261, 109), 'mouth_left': (247, 120), 'mouth_right': (279, 119)}}
+{'box': [364, 85, 40, 52], 'confidence': 0.9991263747215271, 'keypoints': {'left_eye': (370, 103), 'right_eye': (387, 104), 'nose': (371, 112), 'mouth_left': (367, 126), 'mouth_right': (381, 126)}}
+
+
+
+Faces of image Before/before5.jpg
+
+{'box': [72, 29, 60, 77], 'confidence': 0.9999914169311523, 'keypoints': {'left_eye': (96, 56), 'right_eye': (123, 60), 'nose': (112, 74), 'mouth_left': (92, 85), 'mouth_right': (118, 89)}}
+{'box': [330, 27, 58, 78], 'confidence': 0.9998708963394165, 'keypoints': {'left_eye': (341, 58), 'right_eye': (367, 56), 'nose': (352, 71), 'mouth_left': (343, 86), 'mouth_right': (368, 85)}}
+{'box': [201, 59, 62, 80], 'confidence': 0.9996649026870728, 'keypoints': {'left_eye': (218, 90), 'right_eye': (245, 89), 'nose': (230, 105), 'mouth_left': (218, 118), 'mouth_right': (246, 117)}}
+
+
+
+Faces of image Before/before6.jpg
+
+{'box': [128, 77, 44, 55], 'confidence': 0.9999790191650391, 'keypoints': {'left_eye': (140, 98), 'right_eye': (160, 98), 'nose': (148, 108), 'mouth_left': (139, 119), 'mouth_right': (160, 118)}}
+{'box': [316, 11, 78, 94], 'confidence': 0.9998145699501038, 'keypoints': {'left_eye': (335, 48), 'right_eye': (373, 40), 'nose': (353, 57), 'mouth_left': (340, 81), 'mouth_right': (379, 72)}}
+{'box': [38, 83, 40, 52], 'confidence': 0.9996285438537598, 'keypoints': {'left_eye': (51, 99), 'right_eye': (71, 104), 'nose': (58, 109), 'mouth_left': (46, 119), 'mouth_right': (63, 124)}}
+{'box': [191, 77, 53, 68], 'confidence': 0.9994089603424072, 'keypoints': {'left_eye': (203, 101), 'right_eye': (225, 93), 'nose': (216, 105), 'mouth_left': (210, 126), 'mouth_right': (233, 119)}}
+
+
+
+Faces of image Before/before7.jpg
+
+{'box': [94, 71, 101, 131], 'confidence': 0.9999889135360718, 'keypoints': {'left_eye': (110, 123), 'right_eye': (154, 120), 'nose': (124, 148), 'mouth_left': (117, 174), 'mouth_right': (155, 171)}}
+{'box': [270, 16, 85, 116], 'confidence': 0.999961256980896, 'keypoints': {'left_eye': (288, 58), 'right_eye': (328, 56), 'nose': (301, 82), 'mouth_left': (292, 105), 'mouth_right': (327, 103)}}
+
+
+
+Faces of image Before/before8.jpg
+
+{'box': [79, 33, 79, 109], 'confidence': 0.9995230436325073, 'keypoints': {'left_eye': (96, 78), 'right_eye': (128, 75), 'nose': (110, 97), 'mouth_left': (102, 117), 'mouth_right': (131, 112)}}
+{'box': [178, 44, 76, 103], 'confidence': 0.997399091720581, 'keypoints': {'left_eye': (191, 85), 'right_eye': (225, 81), 'nose': (204, 96), 'mouth_left': (193, 121), 'mouth_right': (227, 117)}}
+
+
+
+Faces of image Before/before9.jpg
+
+{'box': [72, 137, 89, 112], 'confidence': 0.9999792575836182, 'keypoints': {'left_eye': (94, 178), 'right_eye': (132, 178), 'nose': (110, 198), 'mouth_left': (97, 222), 'mouth_right': (126, 222)}}
+
+
+
+Faces of image Before/before10.jpg
+
+{'box': [180, 29, 55, 75], 'confidence': 0.9999678134918213, 'keypoints': {'left_eye': (198, 58), 'right_eye': (224, 62), 'nose': (209, 76), 'mouth_left': (194, 82), 'mouth_right': (220, 86)}}
+{'box': [294, 40, 54, 68], 'confidence': 0.9998900890350342, 'keypoints': {'left_eye': (308, 66), 'right_eye': (334, 68), 'nose': (319, 82), 'mouth_left': (306, 89), 'mouth_right': (333, 91)}}
+{'box': [55, 71, 51, 71], 'confidence': 0.998730480670929, 'keypoints': {'left_eye': (69, 101), 'right_eye': (94, 98), 'nose': (83, 117), 'mouth_left': (70, 125), 'mouth_right': (96, 122)}}
+
+
+
+Faces of image Before/before11.jpg
+
+{'box': [940, -181, 1611, 2036], 'confidence': 0.8705145120620728, 'keypoints': {'left_eye': (1372, 538), 'right_eye': (2111, 535), 'nose': (1718, 876), 'mouth_left': (1490, 1431), 'mouth_right': (1981, 1408)}}
+
+
+
+Faces of image Before/before12.jpg
+
+{'box': [1976, 604, 387, 515], 'confidence': 0.9999995231628418, 'keypoints': {'left_eye': (2034, 799), 'right_eye': (2202, 816), 'nose': (2061, 928), 'mouth_left': (2030, 990), 'mouth_right': (2184, 1005)}}
+{'box': [1429, 473, 394, 526], 'confidence': 0.9998482465744019, 'keypoints': {'left_eye': (1539, 675), 'right_eye': (1712, 716), 'nose': (1589, 791), 'mouth_left': (1491, 835), 'mouth_right': (1680, 878)}}
+{'box': [392, 504, 387, 480], 'confidence': 0.9997417330741882, 'keypoints': {'left_eye': (500, 720), 'right_eye': (658, 670), 'nose': (612, 800), 'mouth_left': (551, 875), 'mouth_right': (708, 821)}}
+
+
+
